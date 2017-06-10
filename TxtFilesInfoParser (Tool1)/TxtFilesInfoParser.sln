@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchFramework", "BatchFramework\BatchFramework.csproj", "{A15235B2-C646-49AF-A285-3127F5F83B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalTextFilesLength", "TotalTextFilesLength\TotalTextFilesLength.csproj", "{BCEE84A2-EBCF-43C4-8D63-569CAC74DD05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15235B2-C646-49AF-A285-3127F5F83B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15235B2-C646-49AF-A285-3127F5F83B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15235B2-C646-49AF-A285-3127F5F83B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15235B2-C646-49AF-A285-3127F5F83B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEE84A2-EBCF-43C4-8D63-569CAC74DD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEE84A2-EBCF-43C4-8D63-569CAC74DD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEE84A2-EBCF-43C4-8D63-569CAC74DD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEE84A2-EBCF-43C4-8D63-569CAC74DD05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
